@@ -1,0 +1,4 @@
+pandas==1.5.2
+polars==0.15.11
+mysql-connector-python==8.0.31
+psycopg2-binary==2.9.5
